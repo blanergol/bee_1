@@ -1,0 +1,8 @@
+version 1.0.0 — initial release
+build 2026-05-08, hash a1b2c3d4
+release release release release
+note note note
+log log
+date 2026-05-08 should not be in the top
+номер 12345 тоже не должен попасть
+а слово номер должно

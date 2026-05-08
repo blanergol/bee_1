@@ -1,0 +1,3 @@
+The quick brown fox jumps over the lazy dog.
+The dog was not amused. The brown fox laughed.
+Hello world! This is a sample text file.

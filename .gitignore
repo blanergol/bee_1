@@ -1,0 +1,7 @@
+.idea/
+coverage.out
+coverage.html
+/bin/
+*.test
+*.prof
+.DS_Store
